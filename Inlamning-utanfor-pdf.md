@@ -1,16 +1,27 @@
 Del 1 - Analysera en teknisk lösning 
+
 Välj en digital tjänst du använder varje dag (t.ex. Spotify, Instagram, Swish eller Google Drive). Analysera den utifrån de två nedan perspektiv: (G)
+
 Viktigt här att det handlar inte om att jag förväntar mig ett visst svar utan jag vill se hur dina idéer och hur du resonerar. Det är väldigt svårt att faktiskt veta hur många tjänster fungerar. 
+
 Hållbarhet 
+
 Hur använder tjänsten resurser? 
+
 Hur skulle den kunna bli mer hållbar? 
+
 Säkerhet 
+
 Vilka typer av data hanterar tjänsten? 
+
 Vilka säkerhetsåtgärder tror du finns? 
+
 Finns det några risker? 
+
 Svara med cirka 300–500 ord. 
 
 Del 1 
+
 Jag kommer analysera den mest använda spelplattformen på windows (Steam), vilka resurser som används samt hur ägaren och skaparen av tjänsten (Valve Corporation) använder de olika resurserna. Därefter går jag in på hur hållbar resurserna är och hur dem skulle kunna vara mer hållbara. Jag kommer även gå in på vilka typer av data som steam hanterar, hur de hanterar dem, vilka säkerhetsåtgärder jag tror finns inom dem datatyperna på steam samt att jag kommer röra vid olika risker som finns inom dem. 
 
 Vilka olika resurser använder steam och hur används dem? 
